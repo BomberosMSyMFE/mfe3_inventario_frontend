@@ -1,7 +1,7 @@
 # MFE-03: Microfrontend de Inventario y Recursos Tácticos
 **Sistema Integrado de Comando y Control de Incidentes — Bomberos SCZ**  
 > **Asignatura:** Ingeniería de Software II (INF512) — UAGRM (Semestre 2/2026)  
-> **Docente:** M.Sc. Ing. Rolando Antonio Martínez Cañedo  
+> **Docente:** M.Sc. Ing. Rolando Antonio Martínez 
 > **Responsable:** Jael Sandoval  
 > **Tecnología:** Vue 3.5 / Vite 5 / TypeScript / Tailwind CSS / Apollo Client GraphQL  
 > **Puerto Asignado:** `3003` | **Endpoint Backend:** `http://127.0.0.1:8003/graphql`  
