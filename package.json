@@ -1,0 +1,33 @@
+{
+  "name": "mfe3_inventario_frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Microfrontend de Inventario y Recursos (Vue 3 / Apollo GraphQL) - Plataforma Bomberos INF512",
+  "author": "Jael Sandoval",
+  "scripts": {
+    "dev": "vite --port 3003",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview --port 3003"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.11.8",
+    "@vue/apollo-composable": "^4.2.1",
+    "graphql": "^16.9.0",
+    "graphql-tag": "^2.12.6",
+    "lucide-vue-next": "^0.460.0",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@originjs/vite-plugin-federation": "^1.3.6",
+    "@types/node": "^22.8.7",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vue-tsc": "^2.1.8"
+  }
+}
