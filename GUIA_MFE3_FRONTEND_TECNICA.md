@@ -1,7 +1,7 @@
 # GUÍA TÉCNICA Y DE ARQUITECTURA: MFE-03 MICROFRONTEND DE INVENTARIO
 ## Sistema Integrado de Comando y Control de Incidentes — Bomberos SCZ
 > **Asignatura:** Ingeniería de Software II (INF512) — UAGRM (Semestre 2/2026)  
-> **Docente:** M.Sc. Ing. Rolando Antonio Martínez Cañedo  
+> **Docente:** M.Sc. Ing. Rolando Antonio Martínez 
 > **Responsable del Microfrontend:** Jael Sandoval (Frontend & Microfrontends)  
 > **Tecnología Base:** Vue 3.5 + Vite 5 + TypeScript + Tailwind CSS + Apollo Client GraphQL  
 > **Patrón Arquitectónico:** Microfrontend Federado (Module Federation / Single-SPA)  
